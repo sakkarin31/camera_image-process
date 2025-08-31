@@ -21,7 +21,7 @@
 ## การใช้งาน
 
 รันคำสั่งนี้ใน terminal:
-    ```bash
+
     streamlit run app.py
 จากนั้นเปิดเบราว์เซอร์ไปที่ลิงก์ที่ Streamlit แสดง
 
